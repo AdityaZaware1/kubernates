@@ -13,4 +13,9 @@ public class Hello {
         return "Hello World";
     }
 
+    @GetMapping("/randva")
+    public String Shubham() {
+        return "Shubham is randva";
+    }
+
 }
