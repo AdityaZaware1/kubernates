@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: kubernates
+
+server:
+  port: 9090

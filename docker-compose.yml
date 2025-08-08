@@ -1,0 +1,7 @@
+services:
+
+  kuber:
+    image: adityazaware/kube:0.0.1
+    ports:
+      - 9090:9090
+    container_name: kuber
